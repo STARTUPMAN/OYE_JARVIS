@@ -1,0 +1,6 @@
+opencv-python
+torch
+torchvision
+transformers
+Pillow
+pyttsx3  # Remova essa linha se não quiser suporte à fala
